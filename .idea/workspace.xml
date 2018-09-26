@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aee262eb-2a01-451b-9c37-fddb52a393ab" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/project1$project1.coverage" NAME="project1 Coverage Results" MODIFIED="1535078949316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/project1$test.coverage" NAME="test Coverage Results" MODIFIED="1534041654963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/templates" />
+    <SUITE FILE_PATH="coverage/project2test$project1.coverage" NAME="project1 Coverage Results" MODIFIED="1535784339104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="677403450">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Python Console" value="27" />
+          <entry key="css" value="37" />
+          <entry key="dummy" value="4" />
+          <entry key="html" value="3158" />
+          <entry key="py" value="4410" />
+          <entry key="txt" value="452" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="37" />
+          <entry key="HTML" value="3158" />
+          <entry key="PLAIN_TEXT" value="456" />
+          <entry key="Python" value="4429" />
+          <entry key="SQL" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="2" />
+          <entry key="csv" value="6" />
+          <entry key="html" value="26" />
+          <entry key="md" value="3" />
+          <entry key="pstat" value="1" />
+          <entry key="py" value="8" />
+          <entry key="rnc" value="1" />
+          <entry key="ts" value="1" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="2" />
+          <entry key="CSV" value="6" />
+          <entry key="HTML" value="26" />
+          <entry key="Markdown" value="3" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Profiler Session" value="1" />
+          <entry key="Python" value="8" />
+          <entry key="RNG Compact" value="1" />
+          <entry key="TypeScript" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+    </session>
+    <session id="1917036056">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1720522552">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="70" />
+          <entry key="py" value="496" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="70" />
+          <entry key="Python" value="496" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="3" />
+          <entry key="py" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="3" />
+          <entry key="Python" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-78341402">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="13" column="66" selection-start-line="13" selection-start-column="66" selection-end-line="13" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-241">
+              <caret line="32" column="37" lean-forward="true" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+                <marker date="1535100346654" expanded="true" signature="5133:5140" ph="..." />
+                <marker date="1535100346654" expanded="true" signature="5479:5682" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>authenticate</find>
+      <find>registered</find>
+      <find>print</find>
+      <find>new_rate</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="C:/" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/templates/empty.html" />
+        <option value="$PROJECT_DIR$/templates/test.py" />
+        <option value="$PROJECT_DIR$/templates/authenticated.py" />
+        <option value="$PROJECT_DIR$/templates/authenticated.html" />
+        <option value="$PROJECT_DIR$/templates/wrong_password.html" />
+        <option value="$PROJECT_DIR$/templates/register.html" />
+        <option value="$PROJECT_DIR$/templates/registered.html" />
+        <option value="$PROJECT_DIR$/templates/redirect.html" />
+        <option value="$PROJECT_DIR$/templates/homepage.html" />
+        <option value="$PROJECT_DIR$/static/styles.css" />
+        <option value="$PROJECT_DIR$/templates/information.html" />
+        <option value="$PROJECT_DIR$/model.py" />
+        <option value="$PROJECT_DIR$/templates/layout.html" />
+        <option value="$PROJECT_DIR$/templates/login.html" />
+        <option value="$PROJECT_DIR$/application.py" />
+        <option value="$PROJECT_DIR$/channel_system.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="20" />
+    <option name="y" value="122" />
+    <option name="width" value="1384" />
+    <option name="height" value="1968" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="project2（test）" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project2（test）" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project2（test）" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project2（test）" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project2（test）" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project2（test）" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\1_test_codes\CS_50\project1" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Flask server.project1">
+    <configuration name="application" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/application.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/templates" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\1_test_codes\CS_50\project1\test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="project1" type="Python.FlaskServer" factoryName="Flask server">
+      <option name="additionalOptions" value="" />
+      <option name="application" value="" />
+      <option name="flaskDebug" value="true" />
+      <module name="project1" />
+      <option name="target" value="$PROJECT_DIR$/application.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\82451\AppData\Local\Programs\Python\Python36-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Flask server.project1" />
+      <item itemvalue="Python.application" />
+      <item itemvalue="Python.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.application" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aee262eb-2a01-451b-9c37-fddb52a393ab" name="Default Changelist" comment="" />
+      <created>1533980595267</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533980595267</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Set DATABASE_URL as postgres://jgeqjvdzjrhrzz:db6b94dd0b10ae635d4d592ddec06c7de7364487ac47addf7412a992b5996061@ec2-23-23-216-40.compute-1.amazonaws.com:5432/d15j3fmcildbs6">
+      <created>1533982233012</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1533982233012</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Set DATABASE_URL as postgres://jgeqjvdzjrhrzz:db6b94dd0b10ae635d4d592ddec06c7de7364487ac47addf7412a992b5996061@ec2-23-23-216-40.compute-1.amazonaws.com:5432/d15j3fmcildbs6">
+      <created>1533982367335</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1533982367335</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Login Anthentication System built">
+      <created>1534042240359</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1534042240359</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Login Anthentication System built">
+      <created>1534042582845</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1534042582845</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Login/Register System built">
+      <created>1534045458947</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1534045458947</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Login/Register Logic: built completely.&#10;Now You can jump to homepage(empty, though).">
+      <created>1534072419604</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1534072419604</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Book Remark Logic Built.&#10;&#10;Now you can post your book remark">
+      <created>1534092917858</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1534092917858</updated>
+    </task>
+    <task id="LOCAL-00008" summary="GoodRead's API works.&#10;&#10;Now you can see a book's average rating on GoodRead.">
+      <created>1534095781239</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1534095781239</updated>
+    </task>
+    <task id="LOCAL-00009" summary="GoodRead's API works.&#10;&#10;Now you can see a book's average rating on GoodRead.">
+      <created>1534096195352</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1534096195352</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1633" height="1053" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2730159" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="DB Browser" order="2" weight="0.3295238" />
+      <window_info id="Project Explorer" order="3" weight="0.3295238" />
+      <window_info id="Job Explorer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.24022347" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4977778" weight="0.35530725" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.1396648" />
+      <window_info anchor="bottom" id="Console" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32849163" />
+      <window_info anchor="bottom" id="DB Execution Console" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.49968255" weight="0.32849163" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.50222224" side_tool="true" weight="0.28268155" />
+      <window_info anchor="bottom" id="Python Console" order="14" weight="0.32849163" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="R Graphics" order="4" weight="0.3295238" />
+      <window_info anchor="right" id="R Packages" order="5" />
+      <window_info anchor="right" id="SciView" order="6" />
+      <window_info anchor="right" id="Database" order="7" weight="0.3295238" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Set DATABASE_URL as postgres://jgeqjvdzjrhrzz:db6b94dd0b10ae635d4d592ddec06c7de7364487ac47addf7412a992b5996061@ec2-23-23-216-40.compute-1.amazonaws.com:5432/d15j3fmcildbs6" />
+    <MESSAGE value="Login Anthentication System built" />
+    <MESSAGE value="Login/Register System built" />
+    <MESSAGE value="Login/Register Logic: built completely.&#10;Now You can jump to homepage(empty, though)." />
+    <MESSAGE value="Book Remark Logic Built.&#10;&#10;Now you can post your book remark" />
+    <MESSAGE value="GoodRead's API works.&#10;&#10;Now you can see a book's average rating on GoodRead." />
+    <option name="LAST_COMMIT_MESSAGE" value="GoodRead's API works.&#10;&#10;Now you can see a book's average rating on GoodRead." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/baiduyunguanjia/onlinedit/cache/abc840c39bec74f3a7f7203602698114/project 2010 2013 2016迅雷下载地址汇总.txt" />
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-1201497515/_csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="103" column="28" selection-start-line="103" selection-start-column="28" selection-end-line="103" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/jinja2/parser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="143" selection-start-line="143" selection-end-line="143" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/empty.html" />
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="17110" column="64" selection-start-line="17110" selection-start-column="60" selection-end-line="17110" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/pycharm.jar!/resources/html5-schema/html5/phrase.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-105">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/wrong_password.html" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/flask/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="1246" column="11" lean-forward="true" selection-start-line="1246" selection-start-column="11" selection-end-line="1246" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/redirect.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/sqlalchemy/engine/default.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="508" selection-start-line="508" selection-end-line="508" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/registered.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/templates/homepage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/books.csv" />
+    <entry file="file://$PROJECT_DIR$/model.py" />
+    <entry file="file://$PROJECT_DIR$/static/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/information.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="60" selection-start-line="14" selection-start-column="60" selection-end-line="14" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/layout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/flask/cli.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="248" selection-start-line="248" selection-end-line="248" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/channel_system.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="66" selection-start-line="13" selection-start-column="66" selection-end-line="13" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-241">
+          <caret line="32" column="37" lean-forward="true" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <marker date="1535100346654" expanded="true" signature="5133:5140" ph="..." />
+            <marker date="1535100346654" expanded="true" signature="5479:5682" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

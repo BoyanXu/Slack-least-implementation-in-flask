@@ -1,0 +1,22 @@
+.text-effect{
+    display: block;
+    color: #ff4600;
+    text-align: center;
+    text-shadow: 0px -1px 4px white, 0px -2px 10px yellow, 0px -10px 20px #ff8000, 0px -18px 40px red;
+    position: relative;
+}
+@media only screen and (max-width: 990px){
+    .text-effect{ font-size: 100px; }
+}
+@media only screen and (max-width: 767px){
+    .text-effect{ font-size: 80px; }
+}
+@media only screen and (max-width: 479px){
+    .text-effect{ font-size: 50px; }
+}
+
+.remark{
+    border-style: solid;
+    border-width: thick;
+    border-color: aqua;
+}

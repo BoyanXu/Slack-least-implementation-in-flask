@@ -1,0 +1,53 @@
+{% extends 'layout.html' %}
+
+{% block heading%}
+    Homepage
+{% endblock %}
+
+
+{% block body%}
+    <div>
+        <p class="log_out">
+            <a href="/">Log Out</a>
+        </p>
+    </div>
+
+    <div class="welcome">
+        <h1>Hi {{ username }}. Welcome to Your homepage!</h1>
+    </div>
+
+    <div class="Search">
+        <h3>Search a book:</h3>
+        <form action="{{ url_for('homepage') }}" method="post">
+          <div class="form-group">
+            <label for="isbn">ISBN</label>
+            <input type="text" class="form-control" id="isbn" name="isbn" placeholder="Enter ISBN">
+          </div>
+          <div class="form-group">
+            <label for="title">Title</label>
+            <input type="text" class="form-control" id="title" name="title" placeholder="Enter Title">
+          </div>
+          <div class="form-group">
+            <label for="author">Author</label>
+            <input type="text" class="form-control" id="author" name="author" placeholder="Enter Author">
+          </div>
+          <button type="submit" class="btn btn-primary">Search</button>
+        </form>
+    </div>
+
+    <div>
+    {% if search_result == [] %}
+        <p> Search Results will be listed as beblow. <p>
+    {% else %}
+        <p> Search Results are listed as beblow. <p>
+
+        {% for result in search_results %}
+            <p class="results">
+                <a href="/information/{{ result[0]}}">
+                    <span class="text-effect"><I>{{ result[1] }}</I></span></a>
+            </p>
+        {% endfor %}
+    {% endif %}
+    </div>
+
+{% endblock %}

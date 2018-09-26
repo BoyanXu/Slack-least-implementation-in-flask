@@ -1,0 +1,70 @@
+{% extends 'layout.html' %}
+
+{% block heading%}
+Information Page
+{% endblock %}
+
+
+{% block body%}
+    <h><b> Book Information</b> </h>
+    <div class="book_info">
+        <p>ISBN: {{ book_info[0] }}</p>
+        <p>TITLE: {{ book_info[1] }}</p>
+        <p>AUTHOR: {{ book_info[2] }}</p>
+        <p>YEAR: {{ book_info[3] }}</p>
+        <p>Average Rate on GoodRead: <b>{{good_read_rate}}/5</b></p>
+    </div>
+
+    <h><b> Book Remark </b></h>
+    <div class="user remarks">
+
+        {% if book_remarks == [] %}
+            <p> There has no remark yet. <p>
+        {% else %}
+            <p> book_remarks are listed as beblow. <p>
+
+            {% for remark in book_remarks %}
+                <div class="remark">
+                    <p>Remarker: {{ remark[0] }}</p>
+                    <p>Book Rate : {{ remark[1] }}</p>
+                    <p>Remark: {{ remark[2] }}</p>
+                </div>
+                </br>
+            {% endfor %}
+        {% endif %}
+
+    </div>
+
+    <form action="{{ url_for('information',isbn = book_info[0]) }}" method="post">
+
+        <div class="form-group">
+            <b>Your Rate?</b>
+            <input type="radio" id="1" name="new_rate" value = 1 checked>
+            <label for="1">★</label>
+
+            <input type="radio" id="2" name="new_rate" value = 2>
+            <label for="2">★★</label>
+
+            <input type="radio" id="3" name="new_rate" value = 3>
+            <label for="3">★★★</label>
+
+            <input type="radio" id="4" name="new_rate" value = 4>
+            <label for="4">★★★★</label>
+
+            <input type="radio" id="5" name="new_rate" value = 5>
+            <label for="5">★★★★★</label>
+        </div>
+
+        <div class="form-group">
+            <b>Your Comment?</b>
+            <input class="form-control" name="remark" placeholder="What's your comment?">
+        </div>
+
+        <div class="form-group">
+            <button class="btn btn-primary">Submit</button>
+        </div>
+    </form>
+
+{% endblock %}
+
+
